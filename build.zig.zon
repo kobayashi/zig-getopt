@@ -1,0 +1,12 @@
+.{
+    .name = "zig-getopt",
+    .version = "0.0.0",
+    .paths = .{
+        "get-opt.zig",
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+        "LICENSE",
+    },
+    .dependencies = .{},
+}
